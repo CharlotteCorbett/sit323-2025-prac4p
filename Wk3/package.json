@@ -3,7 +3,8 @@
     "description": "A sample Node.js app using Express 4",
     "dependencies": {
         "express": "^4.21.2",
-        "nodejs": "^0.0.0"
+        "nodejs": "^0.0.0",
+        "winston": "^3.17.0"
     },
     "author": "Charlotte Corbett",
     "license": "MIT"
